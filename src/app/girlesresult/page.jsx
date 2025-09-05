@@ -359,10 +359,10 @@ export default function BoysProgramsWithResults() {
                 <Link href="/addprogram" className="px-3 py-2 rounded-md text-sm font-medium hover:bg-white/20 text-white">
                 Add Program
                 </Link>
-                <Link href="/boysresult" className="px-3 py-2 rounded-md text-sm font-medium text-white bg-white/20">
+                <Link href="/boysresult" className="px-3 py-2 rounded-md text-sm font-medium text-white hover:bg-white/20">
                   Boys Result
                 </Link>
-                <Link href="/girlesresult" className="px-3 py-2 rounded-md text-sm font-medium text-white hover:bg-white/20">
+                <Link href="/girlesresult" className="px-3 py-2 rounded-md text-sm font-medium text-white bg-white/20">
                   Girls Result
                 </Link>
               </div>
@@ -410,14 +410,14 @@ export default function BoysProgramsWithResults() {
               
               <Link 
                 href="/boysresult" 
-                className="block px-3 py-2 rounded-md text-base font-medium text-white bg-white/20"
+                className="block px-3 py-2 rounded-md text-base font-medium text-white hover:bg-white/20"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Boys Result
               </Link>
               <Link 
                 href="/girlesresult" 
-                className="block px-3 py-2 rounded-md text-base font-medium text-white hover:bg-white/20"
+                className="block px-3 py-2 rounded-md text-base font-medium text-white bg-white/20"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Girls Result

@@ -43,7 +43,7 @@ export default function HomePage() {
         {/* Logo Placeholder - Replace with your actual logo */}
         <div className="inline-block">
         <Image
-            src="/image/logo1.png" // Update this path to your actual image
+            src="/images/logo1.png" // Update this path to your actual image
             alt="Madrasathul Badriyyah, Koyyod"
             width={220}
             height={80}
@@ -144,7 +144,7 @@ export default function HomePage() {
         <div className="inline-block">
           {/* Replace the src with your actual image path */}
           <Image
-            src="/image/logo2.png" // Update this path to your actual image
+            src="/images/logo2.png" // Update this path to your actual image
             alt="Madrasathul Badriyyah, Koyyod"
             width={300}
             height={80}
