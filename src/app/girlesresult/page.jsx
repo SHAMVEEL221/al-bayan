@@ -500,7 +500,7 @@ export default function BoysProgramsWithResults() {
         
         {/* Search and Filter Section */}
         <div className="max-w-6xl mx-auto mb-6 bg-white/10 backdrop-blur-md border border-white/20 rounded-xl p-4">
-          <h2 className="text-2xl font-bold text-center mb-4 text-white">Boys Programs</h2>
+          <h2 className="text-2xl font-bold text-center mb-4 text-white">Girls Programs</h2>
           
           <div className="flex flex-col md:flex-row gap-4 mb-4">
             {/* Search Input */}
