@@ -11,7 +11,7 @@ export default function LoginPage() {
   const handleLogin = (e) => {
     e.preventDefault();
 
-    if (username === "admin" && password === "password") {
+    if (username === "admin" && password === "miladfest.25") {
       // ✅ Successful login
       setError("");
       

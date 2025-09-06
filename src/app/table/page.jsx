@@ -88,7 +88,7 @@ export default function CombinedResultsTable() {
 
   const calculateTeamTotals = (programs) => {
     const totals = {
-      'ഖുസയ': 0,
+      'ഖുസയ്യ്': 0,
       'കിനാന': 0,
       'Team C': 0
     };

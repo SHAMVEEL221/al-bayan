@@ -49,7 +49,7 @@ export default function BoysProgramsWithResults() {
   const [selectedProgram, setSelectedProgram] = useState(null);
   const [latestResult, setLatestResult] = useState(null);
   // Teams
-  const [teams, setTeams] = useState(["ഖുസയ", "കിനാന"]);
+  const [teams, setTeams] = useState(["ഖുസയ്യ്", "കിനാന"]);
   // Form states
   const [teamA, setTeamA] = useState("");
   const [scoreA, setScoreA] = useState(0);
@@ -238,7 +238,7 @@ export default function BoysProgramsWithResults() {
     
     if (!error && results) {
       const totals = {
-        'ഖുസയ': 0,
+        'ഖുസയ്യ്': 0,
         'കിനാന': 0
       };
       
